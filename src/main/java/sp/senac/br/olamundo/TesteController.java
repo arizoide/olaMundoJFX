@@ -25,6 +25,8 @@ public class TesteController {
         stage.setScene(scene);
         stage.show();*/
 
+        //Comentário aleatorio para commit
+
         //Ler valor do textField
         welcomeText.setText(textoMensagem.getText());
     }
